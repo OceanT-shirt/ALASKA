@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Create react app",
+      "done": true
+    },
+    {
+      "id": 2,
+      "content": "Create react native app",
+      "done": false
+    },
+    {
+      "id": 3,
+      "content": "Create flutter app",
+      "done": false
+    }
+  ]
+}
